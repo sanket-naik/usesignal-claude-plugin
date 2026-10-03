@@ -1,0 +1,15 @@
+{
+  "name": "usesignal",
+  "description": "useSignal developer tools for Claude",
+  "owner": {
+    "name": "useSignal",
+    "email": "1100sanket@gmail.com"
+  },
+  "plugins": [
+    {
+      "name": "usesignal",
+      "source": "./",
+      "description": "Editable forms from JSON, light/dark color systems with measured contrast, and JavaScript regex testing."
+    }
+  ]
+}

@@ -1,0 +1,20 @@
+{
+  "name": "usesignal",
+  "displayName": "useSignal",
+  "version": "0.1.1",
+  "description": "Turn JSON into editable forms, build light/dark color systems with measured contrast, and test JavaScript regex — powered by useSignal developer tools.",
+  "author": {
+    "name": "useSignal",
+    "email": "1100sanket@gmail.com",
+    "url": "https://www.usesignal.dev/"
+  },
+  "homepage": "https://www.usesignal.dev/",
+  "repository": "https://github.com/sanket-naik/usesignal-claude-plugin",
+  "license": "MIT",
+  "keywords": ["developer-tools", "forms", "json", "colors", "design-tokens", "regex"],
+  "icon": "./assets/icon.svg",
+  "documentationUrl": "https://www.usesignal.dev/plugin-support.html",
+  "supportUrl": "https://www.usesignal.dev/plugin-support.html",
+  "privacyPolicyUrl": "https://www.usesignal.dev/plugin-privacy.html",
+  "termsOfServiceUrl": "https://www.usesignal.dev/plugin-terms.html"
+}

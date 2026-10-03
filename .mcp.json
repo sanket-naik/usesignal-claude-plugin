@@ -1,0 +1,8 @@
+{
+  "mcpServers": {
+    "usesignal": {
+      "type": "http",
+      "url": "https://www.usesignal.dev/mcp"
+    }
+  }
+}
