@@ -9,7 +9,7 @@
     {
       "name": "usesignal",
       "source": "./",
-      "description": "Editable forms from JSON, light/dark color systems with measured contrast, and JavaScript regex testing."
+      "description": "QR codes, JSON diff and formatting, hashes, JWT decoding, cron, timestamps, placeholder images, flowcharts, forms, color systems and regex testing."
     }
   ]
 }

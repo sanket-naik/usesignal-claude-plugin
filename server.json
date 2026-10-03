@@ -2,8 +2,8 @@
   "$schema": "https://static.modelcontextprotocol.io/schemas/2025-12-11/server.schema.json",
   "name": "io.github.sanket-naik/usesignal",
   "title": "useSignal",
-  "description": "Editable forms from JSON, light/dark color systems with contrast checks, and regex testing.",
-  "version": "0.1.1",
+  "description": "QR codes, JSON diff/format, hashes, JWT, cron, timestamps, placeholders, flowcharts, forms, regex.",
+  "version": "0.2.0",
   "websiteUrl": "https://www.usesignal.dev/",
   "repository": {
     "url": "https://github.com/sanket-naik/usesignal-claude-plugin",
