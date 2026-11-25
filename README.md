@@ -8,17 +8,17 @@ useSignal brings the developer tools from [usesignal.dev](https://www.usesignal.
 
 | Tool | What it does |
 | --- | --- |
-| `usesignal_generate_qr` | Builds a scannable QR code for a link, text, Wi-Fi network, contact card, email, SMS, phone number, WhatsApp chat or UPI payment. Returns an SVG file and a PNG preview. |
-| `usesignal_diff_json` | Compares two JSON documents and lists every added, removed and changed value with its path. Numbers compare exactly. |
-| `usesignal_format_json` | Validates, pretty-prints or minifies JSON, reports the exact line and column of errors, and repairs common mistakes such as trailing commas and single quotes. |
-| `usesignal_encode_decode` | Base64 and URL encoding and decoding, MD5/SHA-1/SHA-256/SHA-512 hashes, and JWT decoding with readable expiry dates. JWT signatures are not verified. |
-| `usesignal_explain_cron` | Explains a cron expression in plain English and lists its next run times in any time zone, including across daylight saving changes. |
-| `usesignal_convert_timestamp` | Converts Unix seconds, Unix milliseconds or ISO dates into ISO, UTC, epoch and local time in any time zone. |
-| `usesignal_placeholder_image` | Creates a placeholder image URL served by usesignal.dev, with HTML, Markdown and CSS snippets. |
-| `usesignal_flowchart` | Turns code, arrow steps or Mermaid-style arrows into a flowchart, as Mermaid source and an SVG diagram. |
-| `usesignal_generate_form` | Turns a JSON object into an editable form with HTML, React JSX, JSON Schema and config exports. |
-| `usesignal_generate_colors` | Builds a brand shade scale and light/dark semantic tokens from a hex color, with measured text contrast and CSS, JSON and Tailwind exports. |
-| `usesignal_test_regex` | Runs a JavaScript regular expression against sample text and expected cases, showing matches and capture groups. |
+| [`usesignal_generate_qr`](https://www.usesignal.dev/tools/qr-code-generator) | Builds a scannable QR code for a link, text, Wi-Fi network, contact card, email, SMS, phone number, WhatsApp chat or UPI payment. Returns an SVG file and a PNG preview. |
+| [`usesignal_diff_json`](https://www.usesignal.dev/tools/json-diff) | Compares two JSON documents and lists every added, removed and changed value with its path. Numbers compare exactly. |
+| [`usesignal_format_json`](https://www.usesignal.dev/tools/json-visualizer-cleaner) | Validates, pretty-prints or minifies JSON, reports the exact line and column of errors, and repairs common mistakes such as trailing commas and single quotes. |
+| [`usesignal_encode_decode`](https://www.usesignal.dev/tools/encode-decode) | Base64 and URL encoding and decoding, MD5/SHA-1/SHA-256/SHA-512 hashes, and JWT decoding with readable expiry dates. JWT signatures are not verified. |
+| [`usesignal_explain_cron`](https://www.usesignal.dev/tools/timestamp-cron) | Explains a cron expression in plain English and lists its next run times in any time zone, including across daylight saving changes. |
+| [`usesignal_convert_timestamp`](https://www.usesignal.dev/tools/timestamp-cron) | Converts Unix seconds, Unix milliseconds or ISO dates into ISO, UTC, epoch and local time in any time zone. |
+| [`usesignal_placeholder_image`](https://www.usesignal.dev/tools/image-placeholder) | Creates a placeholder image URL served by usesignal.dev, with HTML, Markdown and CSS snippets. |
+| [`usesignal_flowchart`](https://www.usesignal.dev/tools/flowchart-studio) | Turns code, arrow steps or Mermaid-style arrows into a flowchart, as Mermaid source and an SVG diagram. |
+| [`usesignal_generate_form`](https://www.usesignal.dev/tools/json-to-form) | Turns a JSON object into an editable form with HTML, React JSX, JSON Schema and config exports. |
+| [`usesignal_generate_colors`](https://www.usesignal.dev/tools/color-system-generator) | Builds a brand shade scale and light/dark semantic tokens from a hex color, with measured text contrast and CSS, JSON and Tailwind exports. |
+| [`usesignal_test_regex`](https://www.usesignal.dev/tools/smart-regex-builder) | Runs a JavaScript regular expression against sample text and expected cases, showing matches and capture groups. |
 | `usesignal_open_workbench` | Opens an interactive preview of any result above where the host supports MCP Apps. |
 
 All tools are read-only and stateless. Every result includes a link to the matching full tool on usesignal.dev.
